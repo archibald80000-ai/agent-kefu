@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  agent-kefu-learning:
+    build: .
+    container_name: agent-kefu-learning
+    restart: unless-stopped
+    volumes:
+      - ./data:/app/data
+      - ./prompts:/app/prompts
+      - ./.env:/app/.env:ro
+    environment:
+      - TZ=Asia/Shanghai

@@ -1,0 +1,3 @@
+﻿product_id,category,normalized_name,platform,version_tier,duration,suggested_price,delivery_method,buyer_required_info,renewable,aftersales_boundary,risk_note
+DEMO-001,示例服务,示例服务标准版,Generic Platform,标准版,12个月,199,系统交付,无需额外资料,否,以当前说明为准,公开版仅保留学习结构
+DEMO-002,示例服务,示例服务进阶版,Generic Platform,进阶版,3个月,99,人工确认后交付,需提供订单号,是,需先确认交付边界,数据为匿名虚构样例

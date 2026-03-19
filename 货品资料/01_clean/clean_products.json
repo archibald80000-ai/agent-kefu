@@ -1,0 +1,30 @@
+﻿[
+  {
+    "product_id": "DEMO-001",
+    "normalized_name": "示例服务标准版",
+    "category": "示例服务",
+    "platform": "Generic Platform",
+    "version_tier": "标准版",
+    "duration": "12个月",
+    "suggested_price": "199",
+    "delivery_method": "系统交付",
+    "buyer_required_info": "无需额外资料",
+    "renewable": "否",
+    "aftersales_boundary": "以当前说明为准",
+    "risk_note": "公开版仅保留学习结构"
+  },
+  {
+    "product_id": "DEMO-002",
+    "normalized_name": "示例服务进阶版",
+    "category": "示例服务",
+    "platform": "Generic Platform",
+    "version_tier": "进阶版",
+    "duration": "3个月",
+    "suggested_price": "99",
+    "delivery_method": "人工确认后交付",
+    "buyer_required_info": "需提供订单号",
+    "renewable": "是",
+    "aftersales_boundary": "需先确认交付边界",
+    "risk_note": "数据为匿名虚构样例"
+  }
+]

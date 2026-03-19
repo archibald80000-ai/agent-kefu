@@ -1,0 +1,13 @@
+﻿{
+  "product_id": "DEMO-001",
+  "normalized_name": "示例服务标准版",
+  "platform": "Generic Platform",
+  "category": "示例服务",
+  "version_tier": "标准版",
+  "duration": "12个月",
+  "delivery_method": "系统交付",
+  "buyer_required_info": "无需额外资料",
+  "renewable": "否",
+  "aftersales_boundary": "以当前说明为准",
+  "risk_note": "仅用于学习知识库结构"
+}

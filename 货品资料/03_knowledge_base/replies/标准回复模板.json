@@ -1,0 +1,9 @@
+﻿[
+  {
+    "scene": "商品信息咨询",
+    "user_question": "这个商品是什么？",
+    "standard_reply": "这是匿名化示例服务，主要看当前档位、时长和交付方式。",
+    "variables": ["normalized_name", "version_tier", "duration", "delivery_method"],
+    "requires_manual_handoff": false
+  }
+]
